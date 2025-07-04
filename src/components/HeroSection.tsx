@@ -19,45 +19,45 @@ const HeroSection = () => {
           <div className="space-y-8">
             <div className="space-y-2">
               <p className="text-green-400 text-sm uppercase tracking-wider font-medium">
-                Intelligence artificielle, musique, créativité
+                Artificial intelligence, music, creativity
               </p>
               <h1 className="text-5xl lg:text-7xl font-bold text-white leading-tight">
-                Activez
+                Activate
                 <br />
-                votre
+                your
                 <br />
                 <span className="text-transparent bg-clip-text bg-gradient-to-r from-green-400 to-emerald-500">
-                  univers
+                  universe
                 </span>
               </h1>
             </div>
             
             <div className="space-y-6">
               <p className="text-gray-300 text-lg leading-relaxed">
-                Nous créons l'avenir de la musique et des vidéos avec l'intelligence artificielle, 
-                offrant des expériences sonores et visuelles révolutionnaires.
+                We create the future of music and videos with artificial intelligence, 
+                offering revolutionary sound and visual experiences.
               </p>
               
               <div className="grid md:grid-cols-2 gap-4 text-sm">
                 <div>
-                  <p className="text-gray-400">Plateforme de création AI</p>
-                  <p className="text-white">100% créative : musique,</p>
-                  <p className="text-white">vidéos, expériences immersives.</p>
+                  <p className="text-gray-400">AI Creation Platform</p>
+                  <p className="text-white">100% creative: music,</p>
+                  <p className="text-white">videos, immersive experiences.</p>
                 </div>
                 <div>
-                  <p className="text-gray-400">Contenu innovant</p>
-                  <p className="text-white">Compositions originales générées</p>
-                  <p className="text-white">par intelligence artificielle.</p>
+                  <p className="text-gray-400">Innovative Content</p>
+                  <p className="text-white">Original compositions generated</p>
+                  <p className="text-white">by artificial intelligence.</p>
                 </div>
               </div>
             </div>
             
             <div className="flex flex-col sm:flex-row gap-4">
               <Button className="bg-green-500 hover:bg-green-600 text-black font-semibold px-8 py-3 text-lg">
-                Découvrir nos créations
+                Discover our creations
               </Button>
               <Button variant="outline" className="border-green-500 text-green-400 hover:bg-green-500/10 px-8 py-3 text-lg">
-                Écouter maintenant
+                Listen now
               </Button>
             </div>
           </div>

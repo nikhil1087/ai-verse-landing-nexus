@@ -9,35 +9,35 @@ const AboutSection = () => {
           <div className="space-y-8">
             <div>
               <h2 className="text-4xl lg:text-5xl font-bold text-white mb-6">
-                L'Avenir de la <span className="text-green-400">Création</span>
+                The Future of <span className="text-green-400">Creation</span>
               </h2>
               <p className="text-gray-300 text-lg leading-relaxed mb-6">
-                AI VERSE révolutionne la création musicale et visuelle grâce à l'intelligence artificielle. 
-                Nous repoussons les limites de l'art numérique pour créer des expériences uniques et immersives.
+                AI VERSE revolutionizes music and visual creation through artificial intelligence. 
+                We push the boundaries of digital art to create unique and immersive experiences.
               </p>
               <p className="text-gray-400 leading-relaxed">
-                Développé par <span className="text-green-400 font-semibold">Skynet 3D</span>, 
-                notre plateforme utilise les technologies les plus avancées pour générer des compositions originales 
-                et des visuels époustouflants qui défient les conventions artistiques traditionnelles.
+                Developed by <span className="text-green-400 font-semibold">Skynet 3D</span>, 
+                our platform uses the most advanced technologies to generate original compositions 
+                and stunning visuals that challenge traditional artistic conventions.
               </p>
             </div>
             
             <div className="grid grid-cols-2 gap-8">
               <div className="text-center">
                 <div className="text-3xl font-bold text-green-400 mb-2">1000+</div>
-                <p className="text-gray-400">Compositions créées</p>
+                <p className="text-gray-400">Compositions created</p>
               </div>
               <div className="text-center">
                 <div className="text-3xl font-bold text-green-400 mb-2">5M+</div>
-                <p className="text-gray-400">Écoutes totales</p>
+                <p className="text-gray-400">Total plays</p>
               </div>
               <div className="text-center">
                 <div className="text-3xl font-bold text-green-400 mb-2">50+</div>
-                <p className="text-gray-400">Genres musicaux</p>
+                <p className="text-gray-400">Music genres</p>
               </div>
               <div className="text-center">
                 <div className="text-3xl font-bold text-green-400 mb-2">24/7</div>
-                <p className="text-gray-400">Création continue</p>
+                <p className="text-gray-400">Continuous creation</p>
               </div>
             </div>
           </div>

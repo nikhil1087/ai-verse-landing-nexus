@@ -17,22 +17,22 @@ const Footer = () => {
               </div>
             </div>
             <p className="text-gray-400 text-sm">
-              Créateur de musique et contenu visuel par intelligence artificielle
+              Creator of music and visual content through artificial intelligence
             </p>
           </div>
           
           <div>
-            <h4 className="text-white font-semibold mb-4">Contenu</h4>
+            <h4 className="text-white font-semibold mb-4">Content</h4>
             <ul className="space-y-2 text-sm">
-              <li><a href="#" className="text-gray-400 hover:text-green-400 transition-colors">Musique IA</a></li>
-              <li><a href="#" className="text-gray-400 hover:text-green-400 transition-colors">Vidéos</a></li>
+              <li><a href="#" className="text-gray-400 hover:text-green-400 transition-colors">AI Music</a></li>
+              <li><a href="#" className="text-gray-400 hover:text-green-400 transition-colors">Videos</a></li>
               <li><a href="#" className="text-gray-400 hover:text-green-400 transition-colors">Playlists</a></li>
-              <li><a href="#" className="text-gray-400 hover:text-green-400 transition-colors">Nouveautés</a></li>
+              <li><a href="#" className="text-gray-400 hover:text-green-400 transition-colors">New Releases</a></li>
             </ul>
           </div>
           
           <div>
-            <h4 className="text-white font-semibold mb-4">Communauté</h4>
+            <h4 className="text-white font-semibold mb-4">Community</h4>
             <ul className="space-y-2 text-sm">
               <li><a href="#" className="text-gray-400 hover:text-green-400 transition-colors">YouTube</a></li>
               <li><a href="#" className="text-gray-400 hover:text-green-400 transition-colors">Spotify</a></li>
@@ -44,17 +44,17 @@ const Footer = () => {
           <div>
             <h4 className="text-white font-semibold mb-4">Skynet 3D</h4>
             <ul className="space-y-2 text-sm">
-              <li><a href="#" className="text-gray-400 hover:text-green-400 transition-colors">À propos</a></li>
-              <li><a href="#" className="text-gray-400 hover:text-green-400 transition-colors">Technologie</a></li>
-              <li><a href="#" className="text-gray-400 hover:text-green-400 transition-colors">Partenaires</a></li>
+              <li><a href="#" className="text-gray-400 hover:text-green-400 transition-colors">About</a></li>
+              <li><a href="#" className="text-gray-400 hover:text-green-400 transition-colors">Technology</a></li>
+              <li><a href="#" className="text-gray-400 hover:text-green-400 transition-colors">Partners</a></li>
               <li><a href="#" className="text-gray-400 hover:text-green-400 transition-colors">Contact</a></li>
             </ul>
           </div>
         </div>
         
         <div className="border-t border-gray-800 mt-12 pt-8 flex flex-col md:flex-row justify-between items-center">
-          <p className="text-gray-400 text-sm">© 2024 AI VERSE - Skynet 3D. Tous droits réservés.</p>
-          <p className="text-gray-500 text-xs mt-2 md:mt-0">Propulsé par l'intelligence artificielle</p>
+          <p className="text-gray-400 text-sm">© 2024 AI VERSE - Skynet 3D. All rights reserved.</p>
+          <p className="text-gray-500 text-xs mt-2 md:mt-0">Powered by artificial intelligence</p>
         </div>
       </div>
     </footer>
